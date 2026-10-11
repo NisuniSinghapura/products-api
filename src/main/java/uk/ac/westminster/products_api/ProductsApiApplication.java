@@ -11,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * web server on http://localhost:8080
  */
 
+
 @SpringBootApplication
 public class ProductsApiApplication {
 
@@ -19,3 +20,4 @@ public class ProductsApiApplication {
 	}
 
 }
+
